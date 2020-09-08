@@ -1,0 +1,7 @@
+.results > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 50px;
+}

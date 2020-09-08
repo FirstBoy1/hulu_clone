@@ -1,0 +1,2 @@
+- react-text-truncate - to truncate text in the react
+- react-filp-move - animation for lists
